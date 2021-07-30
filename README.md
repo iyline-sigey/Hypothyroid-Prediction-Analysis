@@ -26,14 +26,21 @@ This project was done as part of a Data Science Course
 # Platforms Used
 
 Google Collab
+
 Github
 
 # Technologies Used
 
 Python
+
 Pandas Library
+
 Numpy Library
+
 Matplotlib Library
+
 Seaborn Library
+
 SciPy Library
+
 Sci-Kit Library
